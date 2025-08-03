@@ -3,7 +3,7 @@
 import pyfiglet
 
 # Text to print
-text = input("Enter your name:)
+text = input("Enter your name:")
 
 # Create ASCII art
 ascii_art = pyfiglet.figlet_format(text)
